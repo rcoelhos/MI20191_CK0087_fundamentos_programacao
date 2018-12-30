@@ -11,4 +11,4 @@ https://github.com/rcoelhos/MI20191_CK0087_fundamentos_programacao.git
 Em construção!!!
 
 ## Autor
-* **Prof. Ricardo Coelho
+* **Prof. Ricardo Coelho** [Lattes](http://lattes.cnpq.br/7670261541550702)
